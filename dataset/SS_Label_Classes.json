@@ -1,0 +1,248 @@
+{
+"categories": [
+  {
+   "id": 0,
+   "name": "empty"
+  },
+  {
+   "id": 1,
+   "name": "human"
+  },
+  {
+   "id": 2,
+   "name": "gazellegrants"
+  },
+  {
+   "id": 3,
+   "name": "reedbuck"
+  },
+  {
+   "id": 4,
+   "name": "dikdik"
+  },
+  {
+   "id": 5,
+   "name": "zebra"
+  },
+  {
+   "id": 6,
+   "name": "porcupine"
+  },
+  {
+   "id": 7,
+   "name": "gazellethomsons"
+  },
+  {
+   "id": 8,
+   "name": "hyenaspotted"
+  },
+  {
+   "id": 9,
+   "name": "warthog"
+  },
+  {
+   "id": 10,
+   "name": "impala"
+  },
+  {
+   "id": 11,
+   "name": "elephant"
+  },
+  {
+   "id": 12,
+   "name": "aardvark"
+  },
+  {
+   "id": 13,
+   "name": "giraffe"
+  },
+  {
+   "id": 14,
+   "name": "mongoose"
+  },
+  {
+   "id": 15,
+   "name": "buffalo"
+  },
+  {
+   "id": 16,
+   "name": "hartebeest"
+  },
+  {
+   "id": 17,
+   "name": "guineafowl"
+  },
+  {
+   "id": 18,
+   "name": "wildebeest"
+  },
+  {
+   "id": 19,
+   "name": "leopard"
+  },
+  {
+   "id": 20,
+   "name": "ostrich"
+  },
+  {
+   "id": 21,
+   "name": "lionfemale"
+  },
+  {
+   "id": 22,
+   "name": "koribustard"
+  },
+  {
+   "id": 23,
+   "name": "otherbird"
+  },
+  {
+   "id": 24,
+   "name": "cheetah"
+  },
+  {
+   "id": 25,
+   "name": "honeybadger"
+  },
+  {
+   "id": 26,
+   "name": "bushbuck"
+  },
+  {
+   "id": 27,
+   "name": "jackal"
+  },
+  {
+   "id": 28,
+   "name": "aardwolf"
+  },
+  {
+   "id": 29,
+   "name": "hippopotamus"
+  },
+  {
+   "id": 30,
+   "name": "hyenastriped"
+  },
+  {
+   "id": 31,
+   "name": "hare"
+  },
+  {
+   "id": 32,
+   "name": "baboon"
+  },
+  {
+   "id": 33,
+   "name": "monkeyvervet"
+  },
+  {
+   "id": 34,
+   "name": "batearedfox"
+  },
+  {
+   "id": 35,
+   "name": "waterbuck"
+  },
+  {
+   "id": 36,
+   "name": "secretarybird"
+  },
+  {
+   "id": 37,
+   "name": "topi"
+  },
+  {
+   "id": 38,
+   "name": "serval"
+  },
+  {
+   "id": 39,
+   "name": "lionmale"
+  },
+  {
+   "id": 40,
+   "name": "eland"
+  },
+  {
+   "id": 41,
+   "name": "rodents"
+  },
+  {
+   "id": 42,
+   "name": "wildcat"
+  },
+  {
+   "id": 43,
+   "name": "civet"
+  },
+  {
+   "id": 44,
+   "name": "genet"
+  },
+  {
+   "id": 45,
+   "name": "zorilla"
+  },
+  {
+   "id": 46,
+   "name": "caracal"
+  },
+  {
+   "id": 47,
+   "name": "rhinoceros"
+  },
+  {
+   "id": 48,
+   "name": "reptiles"
+  },
+  {
+   "id": 49,
+   "name": "insectspider"
+  },
+  {
+   "id": 50,
+   "name": "duiker"
+  },
+  {
+   "id": 51,
+   "name": "cattle"
+  },
+  {
+   "id": 52,
+   "name": "vulture"
+  },
+  {
+   "id": 53,
+   "name": "steenbok"
+  },
+  {
+   "id": 54,
+   "name": "bat"
+  },
+  {
+   "id": 55,
+   "name": "fire"
+  },
+  {
+   "id": 56,
+   "name": "hyenabrown"
+  },
+  {
+   "id": 57,
+   "name": "wilddog"
+  },
+  {
+   "id": 58,
+   "name": "kudu"
+  },
+  {
+   "id": 59,
+   "name": "pangolin"
+  },
+  {
+   "id": 60,
+   "name": "lioncub"
+  }
+ ]
+}
