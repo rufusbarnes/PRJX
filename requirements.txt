@@ -1,0 +1,5 @@
+pip install retry
+pip install torch torchvision
+pip install google-auth
+pip install google-api-python-client
+pip install google-auth-oauthlib
